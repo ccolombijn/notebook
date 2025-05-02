@@ -97,7 +97,7 @@ require_once(__ROOT__.'/public/notebook.php');
     <link rel="stylesheet" href="assets/css/notebook.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
     <script type="module" src="assets/js/notebook.js" defer></script>
 
 </head>
